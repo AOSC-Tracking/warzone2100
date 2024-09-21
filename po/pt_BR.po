@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: warzone2100\n"
 "Report-Msgid-Bugs-To: warzone2100-project@lists.sourceforge.net\n"
 "POT-Creation-Date: 2024-09-11 19:20+0000\n"
-"PO-Revision-Date: 2024-09-11 19:59\n"
+"PO-Revision-Date: 2024-09-18 02:24\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -1800,7 +1800,7 @@ msgid "Destroy the Nexus HQ to disable the Nexus Intruder Program"
 msgstr "Destrua o QG do Nexus para desativar o Programa Intrusivo Nexus"
 
 msgid "Warning: HQ shielded against VTOL attacks"
-msgstr ""
+msgstr "Alerta: QG blindado contra ataques VTOL"
 
 msgid "Research resistance circuits and survive the assault from Nexus"
 msgstr "Pesquise circuitos de resistência e sobreviva ao ataque do Nexus"
@@ -2955,7 +2955,7 @@ msgid "Your external IP is: %s"
 msgstr "Seu IP externo é: %s"
 
 msgid "Failed to create port mapping (timeout)"
-msgstr ""
+msgstr "Falha ao criar o mapeamento da porta (timeout)"
 
 msgid "Client failed to ack player index swap"
 msgstr "O cliente não conseguiu confirmar a troca do índice do jogador"
@@ -6847,16 +6847,16 @@ msgid "VTOL Lancer"
 msgstr "Lançadeiro VTOL"
 
 msgid "VTOL Machinegun Scav"
-msgstr ""
+msgstr "Metralhadora Scav VTOL"
 
 msgid "VTOL Machinegun"
 msgstr "Metralhadora VTOL"
 
 msgid "VTOL Mini-Rocket AA"
-msgstr ""
+msgstr "Mini-Foguetes AA VTOL"
 
 msgid "VTOL Mini-Rocket Scav"
-msgstr ""
+msgstr "Mini-Foguetes Scav VTOL"
 
 msgid "VTOL Mini-Rocket"
 msgstr "Mini-Foguetes VTOL"
@@ -7304,7 +7304,7 @@ msgid "Allow Vulkan implicit layers (that may be default-disabled due to potenti
 msgstr ""
 
 msgid "Set the default hosting chat configuration / permissions"
-msgstr ""
+msgstr "Definir as configurações / permissões padrão do anfitrião do bate-papo"
 
 msgid "Enable async join approval (for connecting clients)"
 msgstr ""
@@ -7473,7 +7473,7 @@ msgstr[1] "%u unidades atribuídas ao Grupo %u"
 msgid "%u units removed from their Group"
 msgid_plural "%u units removed from their Group"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Unidades %u removidas do grupo"
 
 #, c-format
 msgid "Centered on Group %u - %u Unit"
@@ -7715,10 +7715,10 @@ msgid "Terrain quality mode not available."
 msgstr "Modo de qualidade do terreno não disponível."
 
 msgid "Medium Quality"
-msgstr ""
+msgstr "Qualidade Média"
 
 msgid "High Quality"
-msgstr ""
+msgstr "Alta qualidade"
 
 msgid "Shadow mapping not available on this system."
 msgstr "O mapeamento de sombra não está disponível neste sistema."
@@ -7739,7 +7739,7 @@ msgid "Terrain Quality"
 msgstr "Qualidade do Terreno"
 
 msgid "Terrain Shading"
-msgstr ""
+msgstr "Sombra do terreno"
 
 msgid "Shadows"
 msgstr "Sombras"
@@ -7751,7 +7751,7 @@ msgid "Shadow Filtering"
 msgstr "Filtragem de Sombra"
 
 msgid "Per Pixel point lights"
-msgstr ""
+msgstr "Luzes por pixel"
 
 msgid "LOD Distance"
 msgstr "Distância do Nível de Detalhes"
@@ -7989,10 +7989,10 @@ msgid "Destroy (Classic)"
 msgstr "Destruir (Clássico)"
 
 msgid "Allow All"
-msgstr ""
+msgstr "Permitir tudo"
 
 msgid "Quick Chat Only"
-msgstr ""
+msgstr "Apenas Bate-papo Rápido"
 
 msgid "Hosting Options:"
 msgstr "Opções de hospedagem:"
@@ -8007,7 +8007,7 @@ msgid "Use PCP, NAT-PMP, or UPnP to help configure your router / firewall to all
 msgstr "Use PCP, NAT-PMP ou UPnP para ajudar a configurar seu roteador / firewall para permitir conexões durante a hospedagem."
 
 msgid "Chat"
-msgstr ""
+msgstr "Bate-papo"
 
 msgid "Inactivity Timeout"
 msgstr "Tempo de espera por inatividade"
@@ -8019,7 +8019,7 @@ msgid "Spectator Slots"
 msgstr "Espaços de Espectador"
 
 msgid "On Player Leave"
-msgstr ""
+msgstr "Quando o Player Deixar"
 
 msgid "Game Time Limit"
 msgstr "Tempo Limite de Jogo"
@@ -8121,31 +8121,31 @@ msgid "New Joins"
 msgstr ""
 
 msgid "Refresh"
-msgstr ""
+msgstr "Atualizar"
 
 msgid "Host Chat Options"
 msgstr ""
 
 msgid "Global Options:"
-msgstr ""
+msgstr "Opções globais:"
 
 msgid "Enable All"
-msgstr ""
+msgstr "Ativar tudo"
 
 msgid "Disable All"
-msgstr ""
+msgstr "Desabilitar Tudo"
 
 msgid "Chat Options"
-msgstr ""
+msgstr "Opções do bate-papo"
 
 msgid "Mute or configure player free chat."
-msgstr ""
+msgstr "Silenciar ou configurar um chat livre de jogadores."
 
 msgid "The host has globally muted 1+ players."
-msgstr ""
+msgstr "O host silenciou globalmente mais de 1 jogador."
 
 msgid "Local"
-msgstr ""
+msgstr "Local"
 
 msgid "Select / Assign Group Number: "
 msgstr "Selecionar / Atribuir Número de Grupo: "
@@ -8224,7 +8224,7 @@ msgid "Quick Chat:"
 msgstr "Chat Rápido:"
 
 msgid "Lobby Chat"
-msgstr ""
+msgstr "Bate-papo do Lobby"
 
 msgid "Requests"
 msgstr "Solicitações"
@@ -8248,7 +8248,7 @@ msgid "Cheats"
 msgstr "Trapaças"
 
 msgid "End-Game"
-msgstr ""
+msgstr "Fim de jogo"
 
 msgid "Can someone please transfer me some units?"
 msgstr "Alguém pode me transferir algumas unidades, por favor?"
@@ -8588,7 +8588,7 @@ msgid "Failure to load model for %zu stat(s)"
 msgstr ""
 
 msgid "Warzone 2100 encountered error(s) loading game data:"
-msgstr ""
+msgstr "Warzone 2100 encontrou erro(s) ao carregar dados do jogo:"
 
 msgid "Please try removing any new mods - they may have issues or be incompatible with this version."
 msgstr ""
@@ -8597,10 +8597,10 @@ msgid "Loaded mod(s):"
 msgstr ""
 
 msgid "Base game files may be corrupt or outdated - please try reinstalling the game."
-msgstr ""
+msgstr "Arquivos do jogo base podem estar corrompidos ou desatualizados — por favor, tente reinstalar o jogo."
 
 msgid "Error Loading Game Data"
-msgstr ""
+msgstr "Erro ao carregar dados do jogo"
 
 msgid "Global Hotkeys"
 msgstr "Atalhos Globais"
@@ -9386,10 +9386,10 @@ msgid "Power overwhelming"
 msgstr "Energia avassaladora"
 
 msgid "A power fantasy!"
-msgstr ""
+msgstr "Uma fantasia de poder!"
 
 msgid "Taking things easy!"
-msgstr ""
+msgstr "Levando as coisas com calma!"
 
 msgid "Back to normality!"
 msgstr "Voltar a normalidade!"
@@ -9398,7 +9398,7 @@ msgid "Getting tricky!"
 msgstr "Está ficando complicado!"
 
 msgid "In a nightmare!"
-msgstr ""
+msgstr "Em um pesadelo!"
 
 msgid "Twice as nice!"
 msgstr "Duas vezes mais agradável!"
@@ -10040,10 +10040,10 @@ msgid "Alt Name:"
 msgstr "Nome Alternativo:"
 
 msgid "Player rating:"
-msgstr ""
+msgstr "Classificação do jogador:"
 
 msgid "Host provided"
-msgstr ""
+msgstr "Anfitrião fornecido"
 
 #, c-format
 msgid "From: %s"
@@ -10089,19 +10089,19 @@ msgid "Kicked from game"
 msgstr "Expulso do jogo"
 
 msgid "The host has disabled free chat. Please use Quick Chat."
-msgstr ""
+msgstr "O host desativou o chat gratuito. Por favor, use o Chat Rápido."
 
 msgid "Quick Chat"
 msgstr "Chat Rápido"
 
 msgid "Press the Tab key to open Quick Chat."
-msgstr ""
+msgstr "Pressione a tecla Tab para abrir o Chat Rápido."
 
 msgid "The host has disabled free chat. Please use Quick Chat or /hostmsg commands."
 msgstr ""
 
 msgid "The host has enabled free chat for you."
-msgstr ""
+msgstr "O host ativou o chat livre para você."
 
 msgid "Copy Text to Clipboard"
 msgstr "Copiar Texto para a Área de Transferência"
@@ -10153,11 +10153,11 @@ msgstr "O Hosp. iniciou o Jogo"
 
 #, c-format
 msgid "Host: Free chat enabled for: %s"
-msgstr ""
+msgstr "Servidor: Bate-papo livre ativado para: %s"
 
 #, c-format
 msgid "Host: Free chat muted for: %s"
-msgstr ""
+msgstr "Servidor: Bate-papo livre silenciado para: %s"
 
 #, c-format
 msgid "Moving %s to Spectators!"
@@ -10214,17 +10214,17 @@ msgid "Port mapping disabled by user. Autoconfig of port %d will not happen."
 msgstr "Mapeamento de portas desabilitado pelo usuário. Configuração automática da porta %d não vai acontecer."
 
 msgid "Failed to load challenge:"
-msgstr ""
+msgstr "Falha ao carregar o desafio:"
 
 msgid "Failed to load the challenge's map or config"
-msgstr ""
+msgstr "Falha ao carregar o mapa ou configuração do desafio"
 
 msgid "Failed to process autohost config:"
-msgstr ""
+msgstr "Falha ao processar configuração de autohost:"
 
 #, c-format
 msgid "Failed to load the autohost map or config from: %s"
-msgstr ""
+msgstr "Falha ao carregar o mapa ou configuração do host de: %s"
 
 msgid "Closed"
 msgstr "Fechado"
@@ -10365,7 +10365,7 @@ msgid "Give Power To Player"
 msgstr "Fornecer Energia"
 
 msgid "Toggle Chat Mute"
-msgstr ""
+msgstr "Ativar/desativar chat"
 
 msgid "Sent/Received per sec —"
 msgstr "Env./Receb. por seg. —"
@@ -10393,11 +10393,11 @@ msgstr "Estratégia de Equipe"
 
 #, c-format
 msgid "Changed structure limits [%d]:"
-msgstr ""
+msgstr "Limite de estrutura alterado [%d]:"
 
 #, c-format
 msgid "[%d] Limit [%s]: %u (default: %u)"
-msgstr ""
+msgstr "[%d] Limite [%s]: %u (padrão: %u)"
 
 #, c-format
 msgid "[%d] Limit [%s]: %u (default: no limit)"
@@ -10427,18 +10427,18 @@ msgid "Warning, HOST has altered the game code, and can't be trusted!"
 msgstr "Atenção, o HOSPEDEIRO alterou seu código de jogo, e não é confiável!"
 
 msgid "The host has enabled free chat for everyone."
-msgstr ""
+msgstr "O host ativou o bate-papo livre para voc."
 
 msgid "The host has muted free chat for everyone."
-msgstr ""
+msgstr "O anfitrião silenciou o bate-papo gratuito para todos."
 
 #, c-format
 msgid "The host has enabled free chat for player: %s"
-msgstr ""
+msgstr "O anfitrião ativou o bate-papo gratuito para o jogador: %s"
 
 #, c-format
 msgid "The host has muted free chat for player: %s"
-msgstr ""
+msgstr "O anfitrião silenciou o bate-papo gratuito para o jogador: %s"
 
 #, c-format
 msgid "Kicking player %s, because they tried to bypass data integrity check!"
@@ -10731,10 +10731,10 @@ msgid "You cheated!"
 msgstr "Você trapaceou!"
 
 msgid "Use Quick Chat to chat with other players."
-msgstr ""
+msgstr "Use o bate-papo rápido para conversar com outros jogadores."
 
 msgid "The host has disabled free chat."
-msgstr ""
+msgstr "O anfitrião desativou o bate-papo gratuito."
 
 msgid "Chat: All"
 msgstr "Chat: Todos"
@@ -10743,7 +10743,7 @@ msgid "Chat: Team"
 msgstr "Chat: Time"
 
 msgid "Did not send message - free chat is disabled by host. Please use Quick Chat."
-msgstr ""
+msgstr "Mensagem não enviada - o bate-papo gratuito foi desativado pelo anfitrião. Por favor, use o bate-papo rápido."
 
 msgid "See Also:"
 msgstr "Veja também:"
@@ -10827,32 +10827,32 @@ msgid "Connection Error"
 msgstr "Erro de conexão"
 
 msgid "No connections available"
-msgstr ""
+msgstr "Nenhuma conexão disponível"
 
 msgid "Synchronizing data with host ..."
-msgstr ""
+msgstr "Sincronizando dados com o host ..."
 
 msgid "Host did not respond before timeout"
-msgstr ""
+msgstr "O anfitrião não respondeu no tempo limite"
 
 #, c-format
 msgid "Failed to open connection: [%d] %s"
-msgstr ""
+msgstr "Falha ao abrir a conexão: [%d] %s"
 
 msgid "Establishing connection with host"
-msgstr ""
+msgstr "Estabelecendo conexão com o host"
 
 msgid "An internal error occurred"
-msgstr ""
+msgstr "Ocorreu um erro interno"
 
 msgid "Invalid host - disconnected"
-msgstr ""
+msgstr "Host inválido - desconectado"
 
 msgid "Invalid host response"
-msgstr ""
+msgstr "Resposta de host inválida"
 
 msgid "Requesting to join game"
-msgstr ""
+msgstr "Solicitando para entrar no jogo"
 
 msgid "Kick Spectator"
 msgstr "Expulsar espectador"
@@ -10939,7 +10939,7 @@ msgid "Gauss"
 msgstr ""
 
 msgid "Flame"
-msgstr ""
+msgstr "Chama"
 
 msgid "Howitzers"
 msgstr ""
@@ -10948,10 +10948,10 @@ msgid "MG"
 msgstr ""
 
 msgid "Machine Guns"
-msgstr ""
+msgstr "Metralhadoras"
 
 msgid "Electronic"
-msgstr ""
+msgstr "Eletrônico"
 
 msgid "A-A"
 msgstr ""
@@ -10960,10 +10960,10 @@ msgid "Anti-Air"
 msgstr ""
 
 msgid "Slow Missile"
-msgstr ""
+msgstr "Míssil Lento"
 
 msgid "Slow Rocket"
-msgstr ""
+msgstr "Foguete Lento"
 
 msgid "Las-Sat"
 msgstr ""
@@ -10972,10 +10972,10 @@ msgid "Laser Satellite"
 msgstr ""
 
 msgid "Bombs"
-msgstr ""
+msgstr "Bombas"
 
 msgid "Command"
-msgstr ""
+msgstr "Comando"
 
 msgid "EMP"
 msgstr ""
@@ -11086,13 +11086,13 @@ msgid "Additional Campaigns"
 msgstr ""
 
 msgid "Start Game"
-msgstr ""
+msgstr "Jogar"
 
 msgid "Tweak Options:"
 msgstr ""
 
 msgid "Reset to Defaults"
-msgstr ""
+msgstr "Redefinir padrões"
 
 msgid "Command the forces of The Project in a battle to rebuild the world"
 msgstr ""
@@ -11104,63 +11104,63 @@ msgid "WZ2100 Extended Universe"
 msgstr ""
 
 msgid "Unique Universe"
-msgstr ""
+msgstr "Universo único"
 
 #, c-format
 msgid "Requires %s"
 msgstr ""
 
 msgid "Compatible"
-msgstr ""
+msgstr "Compatível"
 
 #, c-format
 msgid "Compatible %s"
-msgstr ""
+msgstr "Compatível %s"
 
 msgid "Timer Power Bonus"
-msgstr ""
+msgstr "Bônus de Poder Temporizador"
 
 msgid "Grant power based on the remaining level timer, so there's no need to wait out the clock."
 msgstr ""
 
 msgid "Classic Timers"
-msgstr ""
+msgstr "Temporizadores Clássicos"
 
 msgid "Alter / disable timers on specific levels, like the original release. (Allows power-cheating.)"
-msgstr ""
+msgstr "Alterar / desativar temporizadores em níveis específicos, como o lançamento original. (Permite trapaça de energia.)"
 
 msgid "40 Unit Limit"
-msgstr ""
+msgstr "Limite de 40 unidades"
 
 msgid "Lower the player's unit limit to 40, matching the original PS1 release."
-msgstr ""
+msgstr "Diminuir o limite de unidades do jogador para 40, assim como na versão original do PS1."
 
 msgid "Autosaves-Only"
 msgstr ""
 
 msgid "Disable the ability to manually save / quick-save, limit autosaves to the beginning of each level."
-msgstr ""
+msgstr "Desabilita a capacidade de salvar manualmente / salvar rapidamente, limita o salvamento automático ao início de cada nível."
 
 msgid "PS1 Modifiers"
 msgstr ""
 
 msgid "Reduces the damage the enemy deals to a third of the current difficulty modifier."
-msgstr ""
+msgstr "Reduz o dano que o inimigo lida a um terço da atual dificuldade do modificador."
 
 msgid "A more relaxed playthrough - easier than easy"
-msgstr ""
+msgstr "Uma brincadeira mais tranquila — mais fácil do que fácil"
 
 msgid "A slightly easier challenge than Normal"
-msgstr ""
+msgstr "Um desafio um pouco mais fácil do que o Normal"
 
 msgid "A fun & challenging experience"
-msgstr ""
+msgstr "Uma experiência divertida e desafiadora"
 
 msgid "A challenge for players who have beaten the game"
-msgstr ""
+msgstr "Um desafio para jogadores que tenham vencido o jogo"
 
 msgid "An unforgiving challenge for experienced players only"
-msgstr ""
+msgstr "Um desafio imperdoável apenas para jogadores experientes"
 
 msgid "\"Classic\" campaign balance"
 msgstr ""
@@ -11172,13 +11172,13 @@ msgid "The remastered campaign experience"
 msgstr ""
 
 msgid "Difficulty:"
-msgstr ""
+msgstr "Dificuldade:"
 
 msgid "Balance:"
-msgstr ""
+msgstr "Saldo:"
 
 msgid "Start at:"
-msgstr ""
+msgstr "Iniciar em:"
 
 msgid "Tweaks:"
 msgstr ""
